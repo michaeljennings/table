@@ -1,0 +1,21 @@
+{
+    "name": "michaeljennings/table",
+    "description": "An html table class",
+    "authors": [
+        {
+            "name": "Michael Jennings",
+            "email": "michael.jennings91@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "Illuminate/filesystem": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Michaeljennings\\Table": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
